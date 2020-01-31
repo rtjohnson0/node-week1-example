@@ -1,0 +1,64 @@
+{
+    "employees":[
+        {
+            "name":"Reggie Johnson",
+            "id":1,
+            "salary":75000,
+            "department":"RTH"
+        },
+        {
+            "name":"Braxton Jackson",
+            "id":2,
+            "salary":53000,
+            "department":"RTH"
+        },
+        {
+            "name":"David Garrad",
+            "id":3,
+            "salary":2000000,
+            "department":"NFL"
+        },
+        {
+            "name":"Kwame Brown",
+            "id":4,
+            "salary":13000,
+            "department":"1st Round Bust"
+        },
+        {
+            "name":"Austin Collie",
+            "id":5,
+            "salary":125630,
+            "department":"NFL"
+        },
+        {
+            "name":"Steph Curry",
+            "id":6,
+            "salary":100000000,
+            "department":"NBA"
+        },
+        {
+            "name":"Lebron James",
+            "id":7,
+            "salary":125000000,
+            "department":"GOAT"
+        },
+        {
+            "name":"Stephen A Smith",
+            "id":8,
+            "salary":1075200,
+            "department":"Sports"
+        },
+        {
+            "name":"Daisha Patricia",
+            "id":9,
+            "salary":75000,
+            "department":"RTH"
+        },
+        {
+            "name":"Josh Gordon",
+            "id":10,
+            "salary":4500000,
+            "department":"NFL"
+        }
+    ]
+}
